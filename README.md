@@ -19,3 +19,9 @@
 ![lily dark](/lily/dark.png)
 
 ![lily light](/lily/light.png)
+
+### pineapple
+
+![pineapple dark](/pineapple/dark.png)
+
+![pineapple light](/pineapple/light.png)
