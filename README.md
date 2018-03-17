@@ -25,3 +25,9 @@
 ![pineapple dark](/pineapple/dark.png)
 
 ![pineapple light](/pineapple/light.png)
+
+### sit
+
+![sit dark](/sit/dark.png)
+
+![sit light](/sit/light.png)
