@@ -2,32 +2,20 @@
 
 > Wallpapers: [unsplash](https://unsplash.com/)
 
-### arch
+### bridge
 
-![arch dark](/arch/dark.png)
+![bridge dark](/bridge/dark.png)
 
-![arch light](/arch/light.png)
+![bridge light](/bridge/light.png)
 
-### leaf
+### jungle
 
-![leaf dark](/leaf/dark.png)
+![jungle dark](/jungle/dark.png)
 
-![leaf light](/leaf/light.png)
+![jungle light](/jungle/light.png)
 
-### lily
+### zen
 
-![lily dark](/lily/dark.png)
+![zen dark](/zen/dark.png)
 
-![lily light](/lily/light.png)
-
-### pineapple
-
-![pineapple dark](/pineapple/dark.png)
-
-![pineapple light](/pineapple/light.png)
-
-### sit
-
-![sit dark](/sit/dark.png)
-
-![sit light](/sit/light.png)
+![zen light](/zen/light.png)
