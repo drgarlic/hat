@@ -20,6 +20,12 @@
 
 ![jungle light](jungle/light.png)
 
+### palms
+
+![palms dark](/palms/dark.png)
+
+![palms light](palms/light.png)
+
 ### rainbow
 
 ![rainbow dark](/rainbow/dark.png)
